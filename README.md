@@ -6,7 +6,7 @@
 ## Social Media
 <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='youtube' height='38'>(https://www.instagram.com/scientistsnotes/)
 
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+[<img alt="alt_text" width="40px" src="[images/image.PNG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" />](https://www.google.com/)
 
 
 [![youtube](img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white')](https://www.instagram.com/scientistsnotes/)
